@@ -36,3 +36,8 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+
+	When you are making new changes or are unsure about bug fixes. This
+	Working directly in master can be more expedient compared to branching
+	and merging and may be appropriate for simple changes like comment
+	typos and such.
